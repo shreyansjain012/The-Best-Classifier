@@ -1,4 +1,4 @@
-# Coursera_ML_project
+# Implementation of Machine Learninng with Python
 --------------------------------------------------------------------------------------------
 # Classification Algorithms used:
 1) KNN
